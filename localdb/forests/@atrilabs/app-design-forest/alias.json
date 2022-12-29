@@ -1,0 +1,14 @@
+{
+  "Flex": 279,
+  "Div": 30,
+  "Input": 1,
+  "Testimonial": 2,
+  "TextBox": 248,
+  "Image": 192,
+  "Button": 3,
+  "UnorderedList": 3,
+  "Carousel": 9,
+  "Cascader": 2,
+  "Breadcrumb": 1,
+  "Modal": 1
+}
